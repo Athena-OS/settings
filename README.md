@@ -1,6 +1,6 @@
 # Athena OS Settings
 
-This repository provides a collection of configuration files and settings to optimize Athena OS. By taking inspiration from [CachyOS](https://github.com/CachyOS/CachyOS-Settings), these settings are designed to enhance system performance, responsiveness, resource management, and wireless compatibility, with a focus on the needs of security researchers, penetration testers, and CTF players.
+This repository provides a collection of configuration files and settings to optimize Athena OS. By taking inspiration from [CachyOS](https://github.com/CachyOS/CachyOS-Settings), these settings are designed to enhance system performance, responsiveness, resource management, and wireless compatibility, with a focus on the needs of security researchers, penetration testers, CTF players and students.
 
 ## Core System Optimizations
 
