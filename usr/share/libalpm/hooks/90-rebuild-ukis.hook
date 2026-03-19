@@ -12,6 +12,7 @@ Target = linux-rt-lts
 Target = linux-lqx
 Target = linux-xanmod
 Target = linux-mainline
+Target = linux-aegis
 Target = linux-cachyos
 
 [Trigger]
